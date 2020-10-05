@@ -35,3 +35,11 @@
         }
     ?>
 </script>
+
+<!-- CKEDITOR -->
+
+<script src="https://cdn.ckeditor.com/4.15.0/standard/ckeditor.js"></script>
+
+<script>
+    CKEDITOR.replace('desc');
+</script>
